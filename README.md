@@ -3,7 +3,7 @@ A time that allows you to increase your workflow using the pomodoro technique
 
 **Link to live website:** https://specialyas.github.io/Restaurant-Website/
 
-![alt tag](pomodo.PNG)
+![alt tag](pomo.PNG)
 
 ## How It's Made:
 
