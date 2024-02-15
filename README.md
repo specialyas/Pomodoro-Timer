@@ -1,7 +1,7 @@
 # Pomodoro Timer
 A time that allows you to increase your workflow using the pomodoro technique
 
-**Link to live website:** https://specialyas.github.io/Restaurant-Website/
+**Link to live website:** https://replit.com/@Specialyas7/Pomodoro-Timer#main.py
 
 ![alt tag](pomo.PNG)
 
